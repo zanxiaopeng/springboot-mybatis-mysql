@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: api Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: xiaopengzan
+Implementation-Vendor-Id: com.rsx
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_111
+Main-Class: ${start-class}
+
